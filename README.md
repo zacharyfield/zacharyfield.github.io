@@ -1,2 +1,0 @@
-# zacharyfield.github.io
-Himalayas

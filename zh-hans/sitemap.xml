@@ -2,36 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://zacharyfield.github.io/authors/</loc>
-    <lastmod>2024-07-28T11:34:47+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zacharyfield.github.io/en/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-hans"
-                href="https://zacharyfield.github.io/authors/"
-                />
+    <loc>https://zacharyfield.github.io/tags/arch-linux/</loc>
+    <lastmod>2022-09-06T22:42:23+08:00</lastmod>
   </url><url>
-    <loc>https://zacharyfield.github.io/tags/crop/</loc>
-    <lastmod>2024-07-28T11:34:47+08:00</lastmod>
+    <loc>https://zacharyfield.github.io/docs/introduction/</loc>
+    <lastmod>2022-09-06T22:42:23+08:00</lastmod>
   </url><url>
-    <loc>https://zacharyfield.github.io/tags/fill/</loc>
-    <lastmod>2024-07-28T11:34:47+08:00</lastmod>
-  </url><url>
-    <loc>https://zacharyfield.github.io/tags/filters/</loc>
-    <lastmod>2024-07-28T11:34:47+08:00</lastmod>
-  </url><url>
-    <loc>https://zacharyfield.github.io/tags/fit/</loc>
-    <lastmod>2024-07-28T11:34:47+08:00</lastmod>
-  </url><url>
-    <loc>https://zacharyfield.github.io/news/2024/07/go-himalayas/</loc>
-    <lastmod>2024-07-28T11:34:47+08:00</lastmod>
+    <loc>https://zacharyfield.github.io/docs/installation/browser/firefox/</loc>
+    <lastmod>2022-09-06T22:42:23+08:00</lastmod>
   </url><url>
     <loc>https://zacharyfield.github.io/</loc>
-    <lastmod>2024-07-28T11:34:47+08:00</lastmod>
+    <lastmod>2022-09-06T22:42:23+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -42,66 +23,6 @@
                 hreflang="zh-hans"
                 href="https://zacharyfield.github.io/"
                 />
-  </url><url>
-    <loc>https://zacharyfield.github.io/authors/himalayas/</loc>
-    <lastmod>2024-07-28T11:34:47+08:00</lastmod>
-  </url><url>
-    <loc>https://zacharyfield.github.io/categories/image/</loc>
-    <lastmod>2024-07-28T11:34:47+08:00</lastmod>
-  </url><url>
-    <loc>https://zacharyfield.github.io/series/news/</loc>
-    <lastmod>2024-07-28T11:34:47+08:00</lastmod>
-  </url><url>
-    <loc>https://zacharyfield.github.io/tags/</loc>
-    <lastmod>2024-07-28T11:34:47+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zacharyfield.github.io/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-hans"
-                href="https://zacharyfield.github.io/tags/"
-                />
-  </url><url>
-    <loc>https://zacharyfield.github.io/categories/</loc>
-    <lastmod>2024-07-28T11:34:47+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zacharyfield.github.io/en/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-hans"
-                href="https://zacharyfield.github.io/categories/"
-                />
-  </url><url>
-    <loc>https://zacharyfield.github.io/news/</loc>
-    <lastmod>2024-07-28T11:34:47+08:00</lastmod>
-  </url><url>
-    <loc>https://zacharyfield.github.io/series/</loc>
-    <lastmod>2024-07-28T11:34:47+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zacharyfield.github.io/en/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-hans"
-                href="https://zacharyfield.github.io/series/"
-                />
-  </url><url>
-    <loc>https://zacharyfield.github.io/tags/arch-linux/</loc>
-    <lastmod>2022-09-06T22:42:23+08:00</lastmod>
-  </url><url>
-    <loc>https://zacharyfield.github.io/docs/introduction/</loc>
-    <lastmod>2022-09-06T22:42:23+08:00</lastmod>
-  </url><url>
-    <loc>https://zacharyfield.github.io/docs/installation/browser/firefox/</loc>
-    <lastmod>2022-09-06T22:42:23+08:00</lastmod>
   </url><url>
     <loc>https://zacharyfield.github.io/series/guide/</loc>
     <lastmod>2022-09-06T22:42:23+08:00</lastmod>
@@ -127,11 +48,50 @@
     <loc>https://zacharyfield.github.io/docs/installation/</loc>
     <lastmod>2022-09-06T22:42:23+08:00</lastmod>
   </url><url>
+    <loc>https://zacharyfield.github.io/tags/</loc>
+    <lastmod>2022-09-06T22:42:23+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zacharyfield.github.io/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hans"
+                href="https://zacharyfield.github.io/tags/"
+                />
+  </url><url>
+    <loc>https://zacharyfield.github.io/categories/</loc>
+    <lastmod>2022-09-06T22:42:23+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zacharyfield.github.io/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hans"
+                href="https://zacharyfield.github.io/categories/"
+                />
+  </url><url>
     <loc>https://zacharyfield.github.io/docs/installation/browser/</loc>
     <lastmod>2022-09-06T22:42:23+08:00</lastmod>
   </url><url>
     <loc>https://zacharyfield.github.io/docs/</loc>
     <lastmod>2022-09-06T22:42:23+08:00</lastmod>
+  </url><url>
+    <loc>https://zacharyfield.github.io/series/</loc>
+    <lastmod>2022-09-06T22:42:23+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zacharyfield.github.io/en/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hans"
+                href="https://zacharyfield.github.io/series/"
+                />
   </url><url>
     <loc>https://zacharyfield.github.io/tags/clashmeta/</loc>
     <lastmod>2022-06-04T22:22:22+08:00</lastmod>
@@ -147,6 +107,46 @@
   </url><url>
     <loc>https://zacharyfield.github.io/blog/</loc>
     <lastmod>2022-04-17T16:35:29+08:00</lastmod>
+  </url><url>
+    <loc>https://zacharyfield.github.io/authors/</loc>
+    <lastmod>2020-06-04T11:11:11+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zacharyfield.github.io/en/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hans"
+                href="https://zacharyfield.github.io/authors/"
+                />
+  </url><url>
+    <loc>https://zacharyfield.github.io/tags/crop/</loc>
+    <lastmod>2020-06-04T11:11:11+08:00</lastmod>
+  </url><url>
+    <loc>https://zacharyfield.github.io/tags/fill/</loc>
+    <lastmod>2020-06-04T11:11:11+08:00</lastmod>
+  </url><url>
+    <loc>https://zacharyfield.github.io/tags/filters/</loc>
+    <lastmod>2020-06-04T11:11:11+08:00</lastmod>
+  </url><url>
+    <loc>https://zacharyfield.github.io/tags/fit/</loc>
+    <lastmod>2020-06-04T11:11:11+08:00</lastmod>
+  </url><url>
+    <loc>https://zacharyfield.github.io/news/2020/06/go-himalayas/</loc>
+    <lastmod>2020-06-04T11:11:11+08:00</lastmod>
+  </url><url>
+    <loc>https://zacharyfield.github.io/authors/himalayas/</loc>
+    <lastmod>2020-06-04T11:11:11+08:00</lastmod>
+  </url><url>
+    <loc>https://zacharyfield.github.io/categories/image/</loc>
+    <lastmod>2020-06-04T11:11:11+08:00</lastmod>
+  </url><url>
+    <loc>https://zacharyfield.github.io/series/news/</loc>
+    <lastmod>2020-06-04T11:11:11+08:00</lastmod>
+  </url><url>
+    <loc>https://zacharyfield.github.io/news/</loc>
+    <lastmod>2020-06-04T11:11:11+08:00</lastmod>
   </url><url>
     <loc>https://zacharyfield.github.io/archives/2022/</loc>
   </url><url>
