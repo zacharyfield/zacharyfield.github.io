@@ -2,164 +2,164 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://zacharyfield.github.io/tags/arch-linux/</loc>
-    <lastmod>2022-09-06T22:42:23+08:00</lastmod>
+    <loc>https://docs.fossai.cc/tags/arch-linux/</loc>
+    <lastmod>2020-06-04T11:11:11+08:00</lastmod>
   </url><url>
-    <loc>https://zacharyfield.github.io/docs/introduction/</loc>
-    <lastmod>2022-09-06T22:42:23+08:00</lastmod>
-  </url><url>
-    <loc>https://zacharyfield.github.io/docs/installation/browser/firefox/</loc>
-    <lastmod>2022-09-06T22:42:23+08:00</lastmod>
-  </url><url>
-    <loc>https://zacharyfield.github.io/</loc>
-    <lastmod>2022-09-06T22:42:23+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zacharyfield.github.io/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-hans"
-                href="https://zacharyfield.github.io/"
-                />
-  </url><url>
-    <loc>https://zacharyfield.github.io/series/guide/</loc>
-    <lastmod>2022-09-06T22:42:23+08:00</lastmod>
-  </url><url>
-    <loc>https://zacharyfield.github.io/categories/installation/</loc>
-    <lastmod>2022-09-06T22:42:23+08:00</lastmod>
-  </url><url>
-    <loc>https://zacharyfield.github.io/tags/linux/</loc>
-    <lastmod>2022-09-06T22:42:23+08:00</lastmod>
-  </url><url>
-    <loc>https://zacharyfield.github.io/docs/installation/browser/midori/</loc>
-    <lastmod>2022-09-06T22:42:23+08:00</lastmod>
-  </url><url>
-    <loc>https://zacharyfield.github.io/docs/installation/windows/</loc>
-    <lastmod>2022-09-06T22:42:23+08:00</lastmod>
-  </url><url>
-    <loc>https://zacharyfield.github.io/tags/ubuntu/</loc>
-    <lastmod>2022-09-06T22:42:23+08:00</lastmod>
-  </url><url>
-    <loc>https://zacharyfield.github.io/tags/windows/</loc>
-    <lastmod>2022-09-06T22:42:23+08:00</lastmod>
-  </url><url>
-    <loc>https://zacharyfield.github.io/docs/installation/</loc>
-    <lastmod>2022-09-06T22:42:23+08:00</lastmod>
-  </url><url>
-    <loc>https://zacharyfield.github.io/tags/</loc>
-    <lastmod>2022-09-06T22:42:23+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zacharyfield.github.io/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-hans"
-                href="https://zacharyfield.github.io/tags/"
-                />
-  </url><url>
-    <loc>https://zacharyfield.github.io/categories/</loc>
-    <lastmod>2022-09-06T22:42:23+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zacharyfield.github.io/en/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-hans"
-                href="https://zacharyfield.github.io/categories/"
-                />
-  </url><url>
-    <loc>https://zacharyfield.github.io/docs/installation/browser/</loc>
-    <lastmod>2022-09-06T22:42:23+08:00</lastmod>
-  </url><url>
-    <loc>https://zacharyfield.github.io/docs/</loc>
-    <lastmod>2022-09-06T22:42:23+08:00</lastmod>
-  </url><url>
-    <loc>https://zacharyfield.github.io/series/</loc>
-    <lastmod>2022-09-06T22:42:23+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zacharyfield.github.io/en/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-hans"
-                href="https://zacharyfield.github.io/series/"
-                />
-  </url><url>
-    <loc>https://zacharyfield.github.io/tags/clashmeta/</loc>
-    <lastmod>2022-06-04T22:22:22+08:00</lastmod>
-  </url><url>
-    <loc>https://zacharyfield.github.io/docs/installation/clashmetaforandroid/</loc>
-    <lastmod>2022-06-04T22:22:22+08:00</lastmod>
-  </url><url>
-    <loc>https://zacharyfield.github.io/tags/readme/</loc>
-    <lastmod>2022-04-17T16:35:29+08:00</lastmod>
-  </url><url>
-    <loc>https://zacharyfield.github.io/blog/2022/04/readme/</loc>
-    <lastmod>2022-04-17T16:35:29+08:00</lastmod>
-  </url><url>
-    <loc>https://zacharyfield.github.io/blog/</loc>
-    <lastmod>2022-04-17T16:35:29+08:00</lastmod>
-  </url><url>
-    <loc>https://zacharyfield.github.io/authors/</loc>
+    <loc>https://docs.fossai.cc/authors/</loc>
     <lastmod>2020-06-04T11:11:11+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://zacharyfield.github.io/en/authors/"
+                href="https://docs.fossai.cc/en/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hans"
-                href="https://zacharyfield.github.io/authors/"
+                href="https://docs.fossai.cc/authors/"
                 />
   </url><url>
-    <loc>https://zacharyfield.github.io/tags/crop/</loc>
+    <loc>https://docs.fossai.cc/docs/introduction/</loc>
     <lastmod>2020-06-04T11:11:11+08:00</lastmod>
   </url><url>
-    <loc>https://zacharyfield.github.io/tags/fill/</loc>
+    <loc>https://docs.fossai.cc/tags/clashmeta/</loc>
     <lastmod>2020-06-04T11:11:11+08:00</lastmod>
   </url><url>
-    <loc>https://zacharyfield.github.io/tags/filters/</loc>
+    <loc>https://docs.fossai.cc/docs/installation/clashmetaforandroid/</loc>
     <lastmod>2020-06-04T11:11:11+08:00</lastmod>
   </url><url>
-    <loc>https://zacharyfield.github.io/tags/fit/</loc>
+    <loc>https://docs.fossai.cc/tags/crop/</loc>
     <lastmod>2020-06-04T11:11:11+08:00</lastmod>
   </url><url>
-    <loc>https://zacharyfield.github.io/news/2020/06/go-himalayas/</loc>
+    <loc>https://docs.fossai.cc/tags/fill/</loc>
     <lastmod>2020-06-04T11:11:11+08:00</lastmod>
   </url><url>
-    <loc>https://zacharyfield.github.io/authors/himalayas/</loc>
+    <loc>https://docs.fossai.cc/tags/filters/</loc>
     <lastmod>2020-06-04T11:11:11+08:00</lastmod>
   </url><url>
-    <loc>https://zacharyfield.github.io/categories/image/</loc>
+    <loc>https://docs.fossai.cc/docs/installation/browser/firefox/</loc>
     <lastmod>2020-06-04T11:11:11+08:00</lastmod>
   </url><url>
-    <loc>https://zacharyfield.github.io/series/news/</loc>
+    <loc>https://docs.fossai.cc/tags/fit/</loc>
     <lastmod>2020-06-04T11:11:11+08:00</lastmod>
   </url><url>
-    <loc>https://zacharyfield.github.io/news/</loc>
+    <loc>https://docs.fossai.cc/news/2020/06/go-himalayas/</loc>
     <lastmod>2020-06-04T11:11:11+08:00</lastmod>
   </url><url>
-    <loc>https://zacharyfield.github.io/archives/2022/</loc>
+    <loc>https://docs.fossai.cc/</loc>
+    <lastmod>2020-06-04T11:11:11+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://docs.fossai.cc/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hans"
+                href="https://docs.fossai.cc/"
+                />
   </url><url>
-    <loc>https://zacharyfield.github.io/offline/</loc>
+    <loc>https://docs.fossai.cc/series/guide/</loc>
+    <lastmod>2020-06-04T11:11:11+08:00</lastmod>
   </url><url>
-    <loc>https://zacharyfield.github.io/authors/razonyang/</loc>
+    <loc>https://docs.fossai.cc/authors/himalayas/</loc>
+    <lastmod>2020-06-04T11:11:11+08:00</lastmod>
   </url><url>
-    <loc>https://zacharyfield.github.io/about/</loc>
+    <loc>https://docs.fossai.cc/categories/image/</loc>
+    <lastmod>2020-06-04T11:11:11+08:00</lastmod>
   </url><url>
-    <loc>https://zacharyfield.github.io/archives/</loc>
+    <loc>https://docs.fossai.cc/categories/installation/</loc>
+    <lastmod>2020-06-04T11:11:11+08:00</lastmod>
   </url><url>
-    <loc>https://zacharyfield.github.io/contact/</loc>
+    <loc>https://docs.fossai.cc/tags/linux/</loc>
+    <lastmod>2020-06-04T11:11:11+08:00</lastmod>
   </url><url>
-    <loc>https://zacharyfield.github.io/search/</loc>
+    <loc>https://docs.fossai.cc/docs/installation/browser/midori/</loc>
+    <lastmod>2020-06-04T11:11:11+08:00</lastmod>
+  </url><url>
+    <loc>https://docs.fossai.cc/docs/installation/windows/</loc>
+    <lastmod>2020-06-04T11:11:11+08:00</lastmod>
+  </url><url>
+    <loc>https://docs.fossai.cc/series/news/</loc>
+    <lastmod>2020-06-04T11:11:11+08:00</lastmod>
+  </url><url>
+    <loc>https://docs.fossai.cc/tags/readme/</loc>
+    <lastmod>2020-06-04T11:11:11+08:00</lastmod>
+  </url><url>
+    <loc>https://docs.fossai.cc/blog/2020/06/readme/</loc>
+    <lastmod>2020-06-04T11:11:11+08:00</lastmod>
+  </url><url>
+    <loc>https://docs.fossai.cc/tags/ubuntu/</loc>
+    <lastmod>2020-06-04T11:11:11+08:00</lastmod>
+  </url><url>
+    <loc>https://docs.fossai.cc/tags/windows/</loc>
+    <lastmod>2020-06-04T11:11:11+08:00</lastmod>
+  </url><url>
+    <loc>https://docs.fossai.cc/docs/installation/</loc>
+    <lastmod>2020-06-04T11:11:11+08:00</lastmod>
+  </url><url>
+    <loc>https://docs.fossai.cc/tags/</loc>
+    <lastmod>2020-06-04T11:11:11+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://docs.fossai.cc/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hans"
+                href="https://docs.fossai.cc/tags/"
+                />
+  </url><url>
+    <loc>https://docs.fossai.cc/blog/</loc>
+    <lastmod>2020-06-04T11:11:11+08:00</lastmod>
+  </url><url>
+    <loc>https://docs.fossai.cc/categories/</loc>
+    <lastmod>2020-06-04T11:11:11+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://docs.fossai.cc/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hans"
+                href="https://docs.fossai.cc/categories/"
+                />
+  </url><url>
+    <loc>https://docs.fossai.cc/docs/installation/browser/</loc>
+    <lastmod>2020-06-04T11:11:11+08:00</lastmod>
+  </url><url>
+    <loc>https://docs.fossai.cc/docs/</loc>
+    <lastmod>2020-06-04T11:11:11+08:00</lastmod>
+  </url><url>
+    <loc>https://docs.fossai.cc/news/</loc>
+    <lastmod>2020-06-04T11:11:11+08:00</lastmod>
+  </url><url>
+    <loc>https://docs.fossai.cc/series/</loc>
+    <lastmod>2020-06-04T11:11:11+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://docs.fossai.cc/en/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hans"
+                href="https://docs.fossai.cc/series/"
+                />
+  </url><url>
+    <loc>https://docs.fossai.cc/archives/2022/</loc>
+  </url><url>
+    <loc>https://docs.fossai.cc/offline/</loc>
+  </url><url>
+    <loc>https://docs.fossai.cc/authors/razonyang/</loc>
+  </url><url>
+    <loc>https://docs.fossai.cc/about/</loc>
+  </url><url>
+    <loc>https://docs.fossai.cc/archives/</loc>
+  </url><url>
+    <loc>https://docs.fossai.cc/contact/</loc>
+  </url><url>
+    <loc>https://docs.fossai.cc/search/</loc>
   </url>
 </urlset>

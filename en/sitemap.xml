@@ -2,64 +2,64 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://zacharyfield.github.io/en/authors/</loc>
+    <loc>https://docs.fossai.cc/en/authors/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hans"
-                href="https://zacharyfield.github.io/authors/"
+                href="https://docs.fossai.cc/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://zacharyfield.github.io/en/authors/"
+                href="https://docs.fossai.cc/en/authors/"
                 />
   </url><url>
-    <loc>https://zacharyfield.github.io/en/categories/</loc>
+    <loc>https://docs.fossai.cc/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hans"
-                href="https://zacharyfield.github.io/categories/"
+                href="https://docs.fossai.cc/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://zacharyfield.github.io/en/categories/"
+                href="https://docs.fossai.cc/en/categories/"
                 />
   </url><url>
-    <loc>https://zacharyfield.github.io/en/</loc>
+    <loc>https://docs.fossai.cc/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hans"
-                href="https://zacharyfield.github.io/"
+                href="https://docs.fossai.cc/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://zacharyfield.github.io/en/"
+                href="https://docs.fossai.cc/en/"
                 />
   </url><url>
-    <loc>https://zacharyfield.github.io/en/series/</loc>
+    <loc>https://docs.fossai.cc/en/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hans"
-                href="https://zacharyfield.github.io/series/"
+                href="https://docs.fossai.cc/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://zacharyfield.github.io/en/series/"
+                href="https://docs.fossai.cc/en/series/"
                 />
   </url><url>
-    <loc>https://zacharyfield.github.io/en/tags/</loc>
+    <loc>https://docs.fossai.cc/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hans"
-                href="https://zacharyfield.github.io/tags/"
+                href="https://docs.fossai.cc/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://zacharyfield.github.io/en/tags/"
+                href="https://docs.fossai.cc/en/tags/"
                 />
   </url>
 </urlset>

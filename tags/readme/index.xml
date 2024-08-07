@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>README on Go Himalays</title>
-    <link>https://zacharyfield.github.io/tags/readme/</link>
+    <link>https://docs.fossai.cc/tags/readme/</link>
     <description>Recent content in README on Go Himalays</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-hans</language>
-    <copyright>Copyright © 2024 Himalays. All Rights Reserved.
+    <copyright>Copyright © 2024 Himalayas. All Rights Reserved.
 </copyright>
-    <lastBuildDate>Sun, 17 Apr 2022 16:35:29 +0800</lastBuildDate><atom:link href="https://zacharyfield.github.io/tags/readme/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 04 Jun 2020 11:11:11 +0800</lastBuildDate><atom:link href="https://docs.fossai.cc/tags/readme/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>README</title>
-      <link>https://zacharyfield.github.io/blog/2022/04/readme/</link>
-      <pubDate>Sun, 17 Apr 2022 16:35:29 +0800</pubDate>
+      <link>https://docs.fossai.cc/blog/2020/06/readme/</link>
+      <pubDate>Thu, 04 Jun 2020 11:11:11 +0800</pubDate>
       
-      <guid>https://zacharyfield.github.io/blog/2022/04/readme/</guid>
+      <guid>https://docs.fossai.cc/blog/2020/06/readme/</guid>
       <description><![CDATA[<p>Go Himalayas, everything is just beginning!</p>]]></description>
     </item>
     
